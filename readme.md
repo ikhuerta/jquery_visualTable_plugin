@@ -22,7 +22,7 @@ Actualmente el plugin crea los siguientes tipos de indicadores en las celdas:
 
 La siguiente imágen representa un ejemplo del uso de todos estos formatos usados a la vez en una misma tabla.
 
-![Ejemplo de tabla con visualTable](/visualTableExample.gif)
+![Ejemplo de tabla con visualTable](/ikhuerta/jquery_visualTable_plugin/blob/master/visualTableExample.gif?raw=true)
 
 #### Resources:
 Marcado para archivos md : http://github.github.com/github-flavored-markdown/
