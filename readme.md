@@ -1,5 +1,7 @@
 # Jquery VisualTable Plugin
 
+NOTA: El plugin aun no está subido a GitHub, lo subiré en unos días, cuando acabe de familiarizarme con este sistema.
+
 ## Español
 _(Pendiente de traducir a Inglés)_
 
@@ -22,8 +24,12 @@ Actualmente el plugin crea los siguientes tipos de indicadores en las celdas:
 
 La siguiente imágen representa un ejemplo del uso de todos estos formatos usados a la vez en una misma tabla.
 
-![Ejemplo de tabla con visualTable](/ikhuerta/jquery_visualTable_plugin/blob/master/visualTableExample.gif?raw=true)
+![Ejemplo de tabla con visualTable](https://github.com/ikhuerta/jquery_visualTable_plugin/blob/master/visualTableExample.gif?raw=true);
+
+### Dirígete a [la wiki](https://github.com/ikhuerta/jquery_visualTable_plugin/wiki) para saber como usar este plugin
 
 #### Resources:
-Marcado para archivos md : http://github.github.com/github-flavored-markdown/
+
+Marcado para archivos md : http://daringfireball.net/projects/markdown/syntax
+
 Descarga Cliente Windows: http://windows.github.com/
