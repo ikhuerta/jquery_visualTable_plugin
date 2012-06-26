@@ -1,7 +1,7 @@
-h1. Prueba
+# Jquery VisualTable Plugin
 
-Prueba
-======
+## Español
+_(Pendiente de traducir a Inglés)_
 
 - Esto es una prueba
 - Si lo es
